@@ -1,0 +1,1 @@
+crt res=800x600 dist=32 dens=20 lev=9
